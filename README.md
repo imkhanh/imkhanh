@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @imkhanh
 - 🤙 It's me 
+- 🤙 self-taught dev
